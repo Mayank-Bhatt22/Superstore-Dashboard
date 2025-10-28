@@ -36,8 +36,7 @@ To design a clean, data-driven dashboard that provides quick business insights a
 - Columns include: *Sales, Profit, Discount, Category, Sub-Category, Region, Ship Mode,* etc.  
 
 ## 📈 Dashboard Preview  
-![Dashboard Screenshot](<img width="1217" height="686" alt="Screenshot 2025-10-28 203347" src="https://github.com/user-attachments/assets/7905893b-68de-4650-987b-fa58506f84f2" />
-)
+(<img width="1217" height="686" alt="Screenshot 2025-10-28 203347" src="https://github.com/user-attachments/assets/7905893b-68de-4650-987b-fa58506f84f2" />)
 
 ## 🧑‍💻 Author  
 **Mayank Bhatt**  
